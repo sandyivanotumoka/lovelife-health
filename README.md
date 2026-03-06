@@ -4,6 +4,12 @@ LoveLife Health is a simple web-based symptom checker that helps users identify 
 
 The application analyzes user symptoms and provides the most likely diagnosis along with medical advice.
 
+## Live Demo
+
+You can try the application here:
+
+https://sandyivanotumoka.github.io/lovelife-health/
+
 ## Features
 
 - Symptom selection based on body parts
