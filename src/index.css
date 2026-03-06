@@ -1,0 +1,17 @@
+/*
+File CSS utama project.
+Di sini kita memanggil layer Tailwind.
+*/
+
+@import "tailwindcss";
+
+/* Warna Global seluruh website */
+:root {
+  --color-primary: #6366f1;
+  --color-secondary: #818cf8;
+  --color-background: #f8fafc;
+}
+
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
